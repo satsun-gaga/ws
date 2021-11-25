@@ -1,4 +1,4 @@
-module ws
+module github.com/satsun-gaga/ws
 
 go 1.15
 
